@@ -1,4 +1,4 @@
-public class Lawyer extends Person{
+public class Lawyer extends Person {
     private int lawyerID;
     private int helpedInCrimesSolving;
 
